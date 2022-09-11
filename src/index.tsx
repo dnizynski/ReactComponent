@@ -7,7 +7,7 @@ export interface ReactComponentProps {
 const ReactComponent = ({ text }: ReactComponentProps) => {
   return (
     <div>
-      ExampleComponent <span>{text}</span>
+      ExampleComponent 0.3.0 <span>{text}</span>
     </div>
   )
 }
